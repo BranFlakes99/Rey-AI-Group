@@ -1,3 +1,3 @@
 # Rey-AI-Group
 KF5012 - Software Engineering Practice
-- hehe im gonna fail
+- hehe at least were not going to fail
