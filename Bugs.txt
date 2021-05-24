@@ -1,0 +1,14 @@
+SEP Code Bugs
+[1] In [4]: PackagesNotFoundError: pil, sklearn
+(Says we have current channels and should navigate for more that we're looking for)
+[2] In[2]: ModuleNotFoundError: 
+[3] In[2]: ModuleNotFoundError: No module named 'tensorflow'
+[4] In[5]: NameError: name 'data' is not defined
+[5] In[6]: SyntaxError: Positional argument follows keyword argument: Line 16 model.add( Conv2D( filters=32, kernel_size(5,5), activation='relu', input_shape=X_train.shape[1:] ) )
+[6] In[7]: NameError: name 'model' is not defined
+[7] In[8]: SyntaxError: Invalid syntax: <matplotlib.legend.legend at 0x24eece89e48>
+[8] In[9]: SyntaxError: Invalid syntax: image Image.open( img )
+[9] In[10]: NameError: name 'model' is not defined
+
+GUI bugs:
+[10] In[1]: SyntaxError: Invalid Syntax: classify_b.configure( background'#364156', foreground='white',
